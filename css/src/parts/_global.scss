@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+}
+
+.wrapper {
+  margin:60px auto;
+  width:80%;
+  max-width:500px;
+}
+
+h1 {
+  background-color:crimson;
+  border-radius:5px 5px 0 0;
+  margin:10px 0 0 0;
+  color:#FFFFF7;
+  font-size:20px;
+  padding:5px;
+  text-align:center;
+ }
+
+h1:hover {
+  cursor:pointer;
+  background-color:cadetblue;
+}
+
+p {
+  background:#FFFFF7;
+  border-radius:0 0 5px 5px;
+  padding: 5px;
+  color: #60646D;
+}
